@@ -14,7 +14,9 @@
 [Sails](http://sailsjs.org/),
 [Total](https://www.totaljs.com/),
 [Strapi](http://strapi.io/),
-[Hapi](http://hapijs.com/)
+[Hapi](http://hapijs.com/),
+[Adonis](http://www.adonisjs.com/),
+[StrongLoop](https://strongloop.com/)
 * **Десктопные приложения:** 
 [NW.js](http://nwjs.io/), 
 [Electron](http://electron.atom.io/), 
@@ -34,6 +36,7 @@
 * **Тестирование:**
 [Mocha](https://mochajs.org/), 
 [Chai](http://chaijs.com/), 
+[Jest](https://facebook.github.io/jest/), 
 [Jasmine](http://jasmine.github.io/), 
 [Sinon](http://sinonjs.org/),
 [Karma](https://karma-runner.github.io/)
@@ -41,8 +44,8 @@
 [Semaphore](https://semaphoreci.com/), 
 [Shippable](https://app.shippable.com/)
 * **Auto deploy:**
-[Sanelotto](http://sanelotto.info/),
 [ShipIt](https://github.com/shipitjs/shipit/),
+[Flightplan](https://github.com/pstadler/flightplan/),
 [Fabric](http://www.fabfile.org/),
 [Capistrano](http://capistranorb.com/)
 * **CMS:**
@@ -73,247 +76,11 @@
 [Grunt](http://gruntjs.com/),
 [Broccoli](https://github.com/broccolijs/broccoli)
 
-## Более полные списки инструментов для различных целей
-### — [Awesome Javascript](https://github.com/sorrycc/awesome-javascript/blob/master/README.md)
-Список библиотек для браузерного Javascript
-<details> 
-  <summary>Содержание</summary>
-  - Package Managers
-  - Loaders
-  - Bundlers
-  - Testing Frameworks
-  - QA Tools
-  - MVC Frameworks and Libraries
-  - Node-Powered CMS Frameworks
-  - Templating Engines
-  - Articles/Posts
-  - Data Visualization
-    - Timeline
-    - Spreadsheet
-  - Editors
-  - Documentation
-  - Utilities
-    - Files
-    - Functional Programming
-    - Reactive Programming
-    - Data Structure
-    - Date
-    - String
-    - Number
-    - Storage
-    - Color
-    - I18n And L10n
-    - Class
-    - Control Flow
-    - Routing
-    - Security
-    - Log
-    - RegExp
-    - Media
-    - Voice Command
-    - API
-    - Streaming
-    - Vision Detection
-    - Browser Detection
-    - Benchmark
-    - Machine Learning
-  - UI
-    - Code Highlighting
-    - Loading Status
-    - Validation
-    - Keyboard Wrappers
-    - Tours And Guides
-    - Notifications
-    - Sliders
-    - Range Sliders
-    - Form Widgets
-    - Tips
-    - Modals and Popups
-    - Scroll
-    - Menu
-    - Table/Grid
-    - Frameworks
-    - Boilerplates
-  - Gesture
-  - Maps
-  - Typography
-  - Animations
-  - Image processing
-  - ES6
-  - SDK
-  - Misc
-  - Podcasts
-</details>
+## Другие списки инструментов для различных целей
   
-### — [Awesome Node](https://github.com/sindresorhus/awesome-nodejs/blob/master/readme.md)  
-Список библиотек для серверного Javascript
-<details> 
-  <summary>Содержание</summary>
-  - Packages
-  	- Mad science
-  	- Command-line apps
-  	- Functional programming
-  	- HTTP
-  	- Debugging / Profiling
-  	- Logging
-  	- Command-line utilities
-  	- Build tools
-  	- Hardware
-  	- Templating
-  	- Web frameworks
-  	- Documentation
-  	- Filesystem
-  	- Control flow
-  	- Streams
-  	- Real-time
-  	- Image
-  	- Text
-  	- Number
-  	- Math
-  	- Date
-  	- URL
-  	- Data validation
-  	- Parsing
-  	- Humanize
-  	- Compression
-  	- Network
-  	- Database
-  	- Testing
-  	- Security
-  	- Benchmarking
-  	- Minifiers
-  	- Authentication
-  	- Email
-  	- Job queues
-  	- Node.js management
-  	- Polyfills
-  	- Natural language processing
-  	- Process management
-  	- Automation
-  	- AST
-  	- Static site generators
-  	- Content management systems
-  	- Forum
-  	- Blogging
-  	- Weird
-  	- Miscellaneous
-  - Resources
-  	- Tutorials
-  	- Discovery
-  	- Articles
-  	- Newsletters
-  	- Videos
-  	- Podcasts
-  	- Books
-  	- Blogs
-  	- Courses
-  	- Cheatsheets
-  	- Tools
-  	- Community
-  	- Miscellaneous
-</details>
+### — Awesome Node
+Также стоит отметить такое явление, как Awesome Node. Это списки различных полезных модулей и библиотек, разбитых по категориям. Каждый автор отбирает те библиотеки, которые кажутся ему наиболее актуальными и полезными. Вот несколько примеров.
+- [Awesome Node (sindresorhus)](https://github.com/sindresorhus/awesome-nodejs/)
+- [Awesome Node (simov)](https://github.com/simov/awesome-nodejs)
+- [Awesome Node (sqreen)](https://github.com/sqreen/awesome-nodejs-projects)
   
-### — [JS Wiki](https://github.com/bebraw/jswiki/wiki)  
-Большой список библиотек для Javascript
-<details> 
-  <summary>Содержание</summary>
-  - Animation libraries
-  - Application Frameworks
-  - Async Control Flow Event Libraries
-  - Audio libraries
-  - Beginner's Resources
-  - Boilerplates
-  - Build utilities
-  - Canvas wrappers
-  - Class system
-  - Code editors
-  - Code protection
-  - Color libraries
-  - Data structures
-  - Date libraries
-  - Debugging Tools
-  - Documentation Tools
-  - Dom
-  - File Formats
-  - Functional programming
-  - Game engine feature matrix
-  - Game Engines
-  - Game resources
-  - Html5 Applications
-  - I18n and l10n
-  - Image manipulation
-  - Keyboard wrappers
-  - Live coding Tools
-  - Loaders
-  - Mapping libraries
-  - Math libraries
-  - Meta
-  - Mobile frameworks
-  - Mvc frameworks
-  - Mvvm frameworks
-  - Node.js
-  - Notifications
-  - Package managers
-  - Parallax
-  - Physics libraries
-  - Presentation libraries
-  - Ringo.js
-  - Routing
-  - Scene graphs
-  - Selector libraries
-  - ServerSide libraries
-  - Session
-  - Storage libraries
-  - Strings
-  - SVG libraries
-  - Templating engines
-  - test
-  - test page
-  - Testing frameworks
-  - Timing
-  - Toolkits
-  - Touch
-  - Ui libraries
-  - Visualization libraries
-  - WebGL
-  - WYSIWYG editors
-
-</details>
-  
-### — [MicroJS.com](http://microjs.com/)  
-Список микробиблиотек
-  
-### — [Javascripting.com](http://www.javascripting.com/)  
-Список с сортировкой на основе метрик гитхаба
-<details> 
-  <summary>Содержание</summary>
-  - Animation
-  - Application Tools
-    - Frameworks
-    - Loaders
-    - Templating
-    - Utilities
-  - Audio
-  - Development Aids
-  - Dom
-    - Frameworks
-    - Utilities
-  - Forms
-  - Games
-  - Helpers
-    - Cross Browser
-    - Object Extends
-  - Images
-    - Sliders and Displays
-    - 2D Graphics
-    - 3D Graphics
-  - Data
-  - Mobile and Touch
-  - Typography
-  - User Interface
-  - Video
-  - Miscellaneous
-</details>
-  
-### — [Трендовые фронтенд-фреймворки](https://github.com/showcases/front-end-javascript-frameworks)  
-Список от гитхаба на основе его метрик
