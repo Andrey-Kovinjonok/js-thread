@@ -14,8 +14,5 @@ https://github.com/vladimir37/js-thread/blob/master/Wiki/tools.md
 Конфа /pr/ в Slack:
 https://slack-2chpr.herokuapp.com/
 
-JS-конфа в телеграме:
-https://telegram.me/jsthread
-
 **НЕ КОПИРУЙ КОД ПРЯМО В ТРЕД!** 
 Воспользуйтесь https://jsfiddle.net/ для браузерного кода и https://ideone.com/ для серверного кода.
